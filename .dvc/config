@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = d:/data/dvc/example1
+[core]
+remote = myremote
